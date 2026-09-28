@@ -39,6 +39,8 @@
 
 ###
 
-<img data-importer="profile-views" align="left" src="https://count.getloli.com/@:lttkiet?theme=moebooru&padding=7&scale=1&align=top&pixelated=0&darkmode=auto"  />
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:lttkiet?theme=3d-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
 
 ###
